@@ -13,7 +13,7 @@ Tontadas introduccion
 
 Cositas
 
-![Fotillo](https://youtu.be/AmGSEH7QcDg)
+![Fotillo](https://www.youtube.com/watch?v=AmGSEH7QcDg&ab_channel=CodeMonkey)
 
 Mas cositas
 
