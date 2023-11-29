@@ -10,12 +10,12 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Alvaro Olavarria # add your name
-author-img: alvaro-olavarria.jpg # add your photo
+author-img: alvaro-olavarria.png # add your photo
 about-author: Soy graduado en Diseño y Desarrollo de Videojuegos por la URJC y desde una edad temprana he tenido claro mi pasión por este sector. # add description
-social-twitter: # add your Twitter handle
+social-twitter: lvarolavarria # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: Alvaroolav3D # add your Github handle
-social-linkedin: # add your Linkedin handle
+social-linkedin: álvaro-olavarría-bezanilla # add your Linkedin handle
 social-email: alvaroolavD2000@gmail.com # add your Email address
 
 # Disqus
