@@ -13,7 +13,8 @@ Tontadas introduccion
 
 Cositas
 
-![Fotillo](https://www.youtube.com/embed/TUtu0p2go0k)
+![Fotillo]({{site.baseurl}}/assets/img/we-in-rest.jpg)
+[![IMAGE ALT TEXT HERE]({{site.baseurl}}/assets/img/we-in-rest.jpg)](https://www.youtube.com/watch?v=kV06GiJgFhc&ab_channel=iHeartGameDev)
 
 Mas cositas
 
