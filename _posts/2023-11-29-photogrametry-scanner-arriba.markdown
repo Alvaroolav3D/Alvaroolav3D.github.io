@@ -13,11 +13,11 @@ Tontadas introduccion
 
 Cositas
 
-![Fotillo]({{site.baseurl}}/assets/img/we-in-rest.jpg)
+![Fotillo](https://youtu.be/AmGSEH7QcDg)
 
 Mas cositas
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TUtu0p2go0k" frameborder="0" allowfullscreen></iframe>
+
 
 >En una cita bien guapa
 
