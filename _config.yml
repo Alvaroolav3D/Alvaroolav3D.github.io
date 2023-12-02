@@ -1,4 +1,4 @@
-title: Hello, world! I'm Alvaro Olavarria
+title: Buenas! Soy Álvaro Olavarría
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -11,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Alvaro Olavarria Bezanilla # add your name
 author-img: alvaro-olavarria.png # add your photo
-about-author: Soy graduado en Diseño y Desarrollo de Videojuegos por la URJC y desde una edad temprana he tenido claro mi pasión por este sector. # add description
+about-author: "Desarrollador con especial interes en videojuegos, gráficos por computador, reconstruccion mediante fotogrametria y arte 3D. Puedes contactarme por cualquiera de las siguientes redes sociales:" # add description
 social-twitter: lvarolavarria # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: Alvaroolav3D # add your Github handle
