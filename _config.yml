@@ -1,8 +1,6 @@
-title: Buenas! Soy Álvaro Olavarría
+title: Hi! Im Álvaro Olavarría
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Developer with special interest in videogames, computer graphics, software engineering, photogrammetry reconstruction and 3D art.
 permalink: ':title/'
 baseurl:  # the subpath of your site, e.g. /blog
 url: "https://github.Alvaroolav3D.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -11,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Alvaro Olavarria Bezanilla # add your name
 author-img: alvaro-olavarria.png # add your photo
-about-author: "Desarrollador con especial interes en videojuegos, gráficos por computador, reconstruccion mediante fotogrametria y arte 3D. Puedes contactarme por cualquiera de las siguientes redes sociales:" # add description
+about-author: "Developer with special interest in videogames, computer graphics, software engineering, photogrammetry reconstruction and 3D art." # add description
 social-twitter: lvarolavarria # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: Alvaroolav3D # add your Github handle
