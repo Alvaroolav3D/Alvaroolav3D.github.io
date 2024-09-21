@@ -10,6 +10,10 @@ tags: [UnrealEngine4, Videogame]
 
 ## Rocket Yan: A Thrilling Space Adventure
 
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/p7NYB5kNDFw" title="ROCKET YAN Release Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 > **"Controlling a ship has never been so challenging."**
 
 **Rocket Yan** is an exciting arcade game where you control a spaceship powered by two independent rockets. Your mission? Navigate through levels filled with obstacles, carefully adjusting your thrust to reach the landing point without crashing. It's a game that demands precision, patience, and skill.
@@ -30,6 +34,8 @@ Developed as part of the **IPMU** course for the **GDDV degree** (Quintana) at *
 
 One of the standout features of **Rocket Yan** is the **custom-built controller** designed specifically for this game. The game’s simple controls—managing the power of two thrusters—prompted the team to create a unique controller that simulates the feeling of being inside the spaceship. This controller features two gradual levers, providing a more authentic and tactile experience for players.
 
+![Custom controller design]({{site.baseurl}}/assets/img/Rocket-Yan/mando-personalizado.png)
+
 However, if you don’t have access to the custom controller, don’t worry! **Rocket Yan** is fully compatible with standard gamepads, where you can use the triggers (preferably analog) to control the thrusters with precision.
 
 ![Gameplay tutorial]({{site.baseurl}}/assets/img/Rocket-Yan/menu-tutorial.png)
@@ -37,17 +43,6 @@ However, if you don’t have access to the custom controller, don’t worry! **R
 
 *Mastering the controls is key to navigating obstacles and landing safely.*
 
----
-
-## Trailer: Watch the Action Unfold
-
-Before you dive into the game, check out the **official trailer** to see the gameplay in action. 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p7NYB5kNDFw" title="ROCKET YAN Release Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<div class="video-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/kV06GiJgFhc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 ---
 
 ## Download and Play
