@@ -40,9 +40,9 @@ __Que es esto__
 
 Lo siguientes puntos
 
-* Hexagon shoreditch beard
-* Intelligentsia narwhal austin
-* Literally meditation four
-* Microdosing hoodie woke
+* 
+* Escenario y personaje jugables
+* juego de terror
+* escaner
 
 Termino con esto

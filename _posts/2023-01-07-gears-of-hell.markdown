@@ -64,10 +64,9 @@ The world of **Gears of Hell** is filled with a variety of enemies, each with un
 
 ## Download and Play
 
-Are you ready to test your skills against the mechanical uprising? **Gears of Hell** is available for free on multiple platforms:
+Are you ready to test your skills against the mechanical uprising? **Gears of Hell** is available for free:
 
-- [Itchio](https://punicgames.itch.io/gears-of-hell)
-- [GitHub](https://github.com/PunicGames/Gears-Of-Hell/releases/tag/GearsOfHell-v2022.2.1GOLD-WebGL)
+- [Play on web in Itchio](https://punicgames.itch.io/gears-of-hell)
 
 ---
 
