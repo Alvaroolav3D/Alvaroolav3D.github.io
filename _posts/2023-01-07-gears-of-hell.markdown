@@ -5,7 +5,7 @@ date: 2023-01-07 13:30:20 +0100
 description: First web video game developed as part of a university project for the JWRS course.
 img: Gears-of-hell/GearsOfHell.gif
 fig-caption: Battle through steampunk chaos in this intense survival shooter!
-tags: [Unity, WebGL, Steampunk, Videogame]
+tags: [Unity, WebGL, Videogame]
 ---
 
 ## Gears of Hell: Surviving the Steampunk Chaos
@@ -58,7 +58,7 @@ Perks can be upgraded up to **five levels**, making them even more powerful, but
 
 The world of **Gears of Hell** is filled with a variety of enemies, each with unique behaviors and strengths. From **basic melee workers** to heavily armed **gunslingers** and giant **spider-like automatons**, each enemy requires a different strategy to defeat. As you progress, enemies become more dangerous, with higher **health** and **attack power**, making each wave more challenging.
 
-![Check the Bestiary]({{site.baseurl}}/assets/img/we-in-rest.jpg)
+![Check the Bestiary]({{site.baseurl}}/assets/img/Gears-of-hell/GoH bestiary.gif)
 
 ---
 
