@@ -38,7 +38,7 @@ In **Gears of Hell**, you must control a lone mercenary battling through relentl
 ### Movement & Controls
 The player character moves in a **top-down** perspective, with responsive movement designed to help you **dodge enemy attacks**. The controls vary depending on whether you play on a **PC** or a **mobile device**, ensuring an optimal experience on both platforms.
 
-![Gameplay screenshot]({{site.baseurl}}/assets/img/we-in-rest.jpg)
+![Gameplay screenshot]({{site.baseurl}}/assets/img/Gears-of-hell/GearsOfHell.gif)
 *An intense battle with enemies coming from all directions.*
 
 ### Shop System & Upgrades
@@ -50,8 +50,7 @@ The in-game shop is crucial for your survival. Here, you can purchase **upgraded
 
 Perks can be upgraded up to **five levels**, making them even more powerful, but choose wisely—you can only equip a limited number of perks during each playthrough.
 
-![Weapons]({{site.baseurl}}/assets/img/we-in-rest.jpg)
-![Perks]({{site.baseurl}}/assets/img/we-in-rest.jpg)
+![Perks]({{site.baseurl}}/assets/img/Gears-of-hell/perks.png)
 
 ---
 
