@@ -18,8 +18,6 @@ tags: [UnrealEngine4, Videogame]
 
 **Rocket Yan** is an exciting arcade game where you control a spaceship powered by two independent rockets. Your mission? Navigate through levels filled with obstacles, carefully adjusting your thrust to reach the landing point without crashing. It's a game that demands precision, patience, and skill.
 
-Developed as part of the **IPMU** course for the **GDDV degree** (Quintana) at **URJC** (21/22), **Rocket Yan** is a project built by a small team of three passionate developers.
-
 ### Game Features:
 - **4 skill-based levels** with increasing difficulty.
 - **Unique control mechanics** using independent thrusters.
@@ -57,4 +55,4 @@ Ready to embark on your space adventure? **Rocket Yan** is available on the foll
 
 ## About the Development Team
 
-This game was developed by a team of **three students** for a university project. It represents months of hard work, creativity, and a love for game development. We hope you enjoy playing **Rocket Yan** as much as we enjoyed creating it!
+Developed by a team of **three students** as part of the **IPMU** course for the **GDDV degree** (Quintana) at **URJC** (21/22).  We hope you enjoy playing **Rocket Yan** as much as we enjoyed creating it!
