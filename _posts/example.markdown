@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Rocket Yan
+title: Prueba
 date: 2021-12-12 13:30:20 +0100
 description: Primer videojuego en el que he participado para una asginatura de la universidad. # Add post description (optional)
 img: Rocket-Yan/gameplay-giff.gif # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: []
+tags: [prueba]
 ---
 
 > Controlling a ship has never been so challenging.
@@ -40,7 +40,6 @@ __Que es esto__
 
 Lo siguientes puntos
 
-* 
 * Escenario y personaje jugables
 * juego de terror
 * escaner
